@@ -1,0 +1,40 @@
+body {
+    background-color: #4239B0;
+    color: #ffff;
+    font-family: 'Merriweather', serif;
+}
+
+.login-title {
+    font-weight: 700;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.subtext-login {
+    font-weight: 300;
+    font-size: 14pt;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.components-login {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-form--login {
+    margin: 0 auto;
+}
+
+.botao-login {
+    width: 100%;
+    background-color: #FF6747;
+    font-weight: 700;
+    color: #ffff;
+}
+
+.form-label {
+    font-weight: 700;
+    width: 100%;
+    text-align: left;
+}
